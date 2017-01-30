@@ -3,5 +3,12 @@
     "short_name": "Woman Only Chat",
     "start_url": "/index.html",
     "display": "standalone",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "theme_color": "#246cf2",
+    "background_color": "#ffffff",
+    "icons": [{
+        "src": "images/favicons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }]
 }
