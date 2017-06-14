@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "livechat-80cc9"
+    "staging": "livechat-80cc9",
+    "default": "livechat-80cc9"
   }
 }
