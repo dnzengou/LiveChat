@@ -1,6 +1,6 @@
 {
-    "name": "Woman Only Chat",
-    "short_name": "Woman Only Chat",
+    "name": "Live Chat",
+    "short_name": "LiveChat",
     "start_url": "/index.html",
     "display": "standalone",
     "orientation": "portrait",
