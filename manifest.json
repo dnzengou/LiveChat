@@ -7,8 +7,8 @@
     "theme_color": "#246cf2",
     "background_color": "#ffffff",
     "icons": [{
-        "src": "images/favicons/android-chrome-192x192.png",
-        "sizes": "192x192",
+        "src": "images/favicons/mstile-150x150.png",
+        "sizes": "150x150",
         "type": "image/png"
     }]
 }

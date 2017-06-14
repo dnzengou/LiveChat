@@ -1,6 +1,6 @@
 # Live Chat Web App
 ## Based on the "Firebase: Build a Real Time Web Chat App Codelab - Final code"
-<!--# Based on the "Firebase: Build a Real Time Web Chat App Codelab - Final code"
+<!--
 ## completed with Service Worker to transform it into a Progressive Web App
 ## along with push notifications (TO TEST)
 
